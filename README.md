@@ -19,18 +19,18 @@ List of Contents
 
 1. Configuration instructions
   #Software:
-           Putty，a free and open-source terminal emulator, serial console and network file transfer application.
+           *Putty，a free and open-source terminal emulator, serial console and network file transfer application.
 	   
   #Hardware:
-           Raspberry Pi,a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.
+           *Raspberry Pi,a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.
            
-	   A USB line, which connects the power.
+	   *A USB line, which connects the power.
            
-	   A Internet cable.
+	   *A Internet cable.
            
-	   A sound card,which provides input and output of audio signals to and from a computer under control of computer programs.
+	   *A sound card,which provides input and output of audio signals to and from a computer under control of computer programs.
            
-	   A microphone.
+	   *A microphone.
 	   
 2. Installation instructions
 
