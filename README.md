@@ -1,4 +1,4 @@
-# -------------------------------------------- Sound Level Sensor ----------------------------------------
+# ---------------------- Sound Level Sensor ------------------------
 Sound level meter project made by MengqiYu. Feb.2018
 
 This project uses a Raspberry Pi 3 Mode B as a sound sensor. A USB sound card
@@ -18,9 +18,9 @@ List of Contents
 6. Contact information
 
 1. Configuration instructions
-#Software:
+  #Software:
            Putty，a free and open-source terminal emulator, serial console and network file transfer application.
-#Hardware:
+  #Hardware:
            Raspberry Pi,a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.
            A USB line, which connects the power.
            A Internet cable.
