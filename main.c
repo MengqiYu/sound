@@ -19,5 +19,5 @@ int main(void){
 		//send fast dBs to web (php program on www.cc.puv.fi)
 
 	}
-	return 0;
+	
 }
