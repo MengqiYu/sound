@@ -1,4 +1,4 @@
-# ---------------------- Sound Level Sensor ------------------------
+# ---------------------- Sound Level Sensor ----------------------
 Sound level meter project made by MengqiYu. Feb.2018
 
 This project uses a Raspberry Pi 3 Mode B as a sound sensor. A USB sound card
