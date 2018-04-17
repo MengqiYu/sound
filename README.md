@@ -20,24 +20,40 @@ List of Contents
 1. Configuration instructions
   #Software:
            Putty，a free and open-source terminal emulator, serial console and network file transfer application.
+	   
   #Hardware:
            Raspberry Pi,a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.
-           A USB line, which connects the power.
-           A Internet cable.
-           A sound card,which provides input and output of audio signals to and from a computer under control of computer programs.
-           A microphone.
+           
+	   A USB line, which connects the power.
+           
+	   A Internet cable.
+           
+	   A sound card,which provides input and output of audio signals to and from a computer under control of computer programs.
+           
+	   A microphone.
+	   
 2. Installation instructions
+
 	(1.Connect the Raspberry Pi to Enternet by useing the Internet cable.
+
 	(2.Connect the sound card to the Raspberry Pi and connect the microphone to the sound card.
-  (3.Connect the Raspberry Pi to the computer by useing the USB line,which provides the power. 
+  
+  	(3.Connect the Raspberry Pi to the computer by useing the USB line,which provides the power. 
+	
 3. Operation instructions
-  (1.Open the puttey and check your IP address from your email.
-  (2.log in.
-  (3.Open the devapp file to run the program.(you can operate application by typing "./sound.a")
-  (4.There are many vertical bars on the screen.
-  (5.If you open the public_html file,you can see a text named "sound_log",which reconds your sound level(U:\public_html)
+  	(1.Open the puttey and check your IP address from your email.
+  
+ 	(2.log in.
+  
+ 	(3.Open the devapp file to run the program.(you can operate application by typing "./sound.a")
+  
+  	(4.There are many vertical bars on the screen.
+  
+  	(5.If you open the public_html file,you can see a text named "sound_log",which reconds your sound level(U:\public_html)
+	
 4. File manifest
 	comm.c comm.h main.c makefile README.md README.txt screen.c screen.h sound.c sound.h
+	
 5. Copyright and license
   This program is made by MengqiYu,e1700696.
   You can use this program to detect and record your sound level.It is free.
