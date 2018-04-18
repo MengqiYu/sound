@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "sound.h"
 #include <signal.h>
-#include "screen.h"
+#include "comm.h"
 int main(void){
 	int ret;
 	while(1){ //loop runs forever
