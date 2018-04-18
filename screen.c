@@ -11,17 +11,17 @@ void clearScreen(void){
 void gotoxy(int row, int col){
 	printf("%c[%d;%dH",ESC,row,col);
 	fflush(stdout);
-}
+} 	//This function uses VT100 escape sequence \ESC[row;colH to set the cursor to the specific location of the terminal screen
 
 void setColor(int color){
 	printf("%c[1;%dm",ESC, color);
 	fflush(stdout);
-}
+}	//This function uses VT100 escape sequence \ESC[color to set the color 
 
-void bar(int col,double dB){
+void bar(int col,double dB){	//This function display the recording bar.
 	int i;
 	for(i=0; i<dB/4; i++){
-		gotoxy(25-i, col+1);
+		gotoxy(25-i, col+1);	//the first bar start from col=1
 #ifndef UNICODE   // if unicode is not enabled
 		printf("%c", '*');
 #else
