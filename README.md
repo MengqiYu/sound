@@ -55,9 +55,10 @@ List of Contents
 	comm.c comm.h main.c makefile README.md README.txt screen.c screen.h sound.c sound.h
 	
 5. Copyright and license
-  This program is made by MengqiYu,e1700696.
-  You can use this program to detect and record your sound level.It is free.
+
+  If you publish your source code in a public repository on GitHub, according to the Terms of Service, other GitHub users have the right to view and fork your repository within the GitHub site. If you have already created a public repository and no longer want users to have access to it, you can make your repository private. When you convert a public repository to a private repository, existing forks or local copies created by other users will still exist. For more information, see "Making a public repository private."
   
+
 6. Contact information
 	Email:e1700696@edu.vamk.fi
 
