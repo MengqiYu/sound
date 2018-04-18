@@ -1,4 +1,4 @@
-<?php
+<?php 
 $log_file = 'sound_log.txt';
 $data = $_POST['data'];
 $today = date("Y-m-d H:i:s");
